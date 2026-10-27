@@ -1,4 +1,4 @@
-# All-Addition Spiking Diffusion Models with Attention Enhancement
+# AdderDiff: All-Addition Spiking Diffusion Models with Attention Enhancement
 
 We provide a checkpoint(logs/DDPM_CIFAR10/ckpt.pt) for you to verify our method.
 
